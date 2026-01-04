@@ -64,49 +64,49 @@ export default {
   				blue: 'hsl(var(--neon-blue))'
   			}
   		},
-  		fontFamily: {
-  			display: [
-  				'Space Grotesk',
-  				'sans-serif'
-  			],
-  			body: [
-  				'Inter',
-  				'sans-serif'
-  			],
-  			sans: [
-  				'Poppins',
-  				'ui-sans-serif',
-  				'system-ui',
-  				'-apple-system',
-  				'BlinkMacSystemFont',
-  				'Segoe UI',
-  				'Roboto',
-  				'Helvetica Neue',
-  				'Arial',
-  				'Noto Sans',
-  				'sans-serif'
-  			],
-  			serif: [
-  				'Merriweather',
-  				'ui-serif',
-  				'Georgia',
-  				'Cambria',
-  				'Times New Roman',
-  				'Times',
-  				'serif'
-  			],
-  			mono: [
-  				'JetBrains Mono',
-  				'ui-monospace',
-  				'SFMono-Regular',
-  				'Menlo',
-  				'Monaco',
-  				'Consolas',
-  				'Liberation Mono',
-  				'Courier New',
-  				'monospace'
-  			]
-  		},
+		fontFamily: {
+			display: [
+				'Outfit',
+				'sans-serif'
+			],
+			body: [
+				'Plus Jakarta Sans',
+				'sans-serif'
+			],
+			sans: [
+				'Plus Jakarta Sans',
+				'ui-sans-serif',
+				'system-ui',
+				'-apple-system',
+				'BlinkMacSystemFont',
+				'Segoe UI',
+				'Roboto',
+				'Helvetica Neue',
+				'Arial',
+				'Noto Sans',
+				'sans-serif'
+			],
+			serif: [
+				'Outfit',
+				'ui-serif',
+				'Georgia',
+				'Cambria',
+				'Times New Roman',
+				'Times',
+				'serif'
+			],
+			mono: [
+				'JetBrains Mono',
+				'ui-monospace',
+				'SFMono-Regular',
+				'Menlo',
+				'Monaco',
+				'Consolas',
+				'Liberation Mono',
+				'Courier New',
+				'monospace'
+			]
+		},
   		borderRadius: {
   			lg: 'var(--radius)',
   			md: 'calc(var(--radius) - 2px)',
